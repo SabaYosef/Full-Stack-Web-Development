@@ -1,8 +1,8 @@
-{
-  "development": {
+ {
+ "development": {
     "username": "root",
-    "password": "0988132669iam@copy",
-    "database": "projectdb",
+    "password": "password",
+    "database": "TutorialDB",
     "host": "localhost",
     "dialect": "mysql"
   },
